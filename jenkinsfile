@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         SERVER_IP    = 'student-key'
-        SSH_CRED_ID  = '172.31.26.97'
+        SSH_CRED_ID  = '54.193.115.226'
         TOMCAT_PATH  = '/var/lib/tomcat10/webapps'
         TOMCAT_SVC   = 'tomcat10'
     }
